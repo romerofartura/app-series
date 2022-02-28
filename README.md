@@ -1,2 +1,2 @@
 # app-series
-Projeto Dio prática de orientação a objetos e separação de responsabilidades
+Projeto Dio prática de orientação a objetos (adicionado separação de camadas)
